@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.dist/
+build/
+
+# venv (NO subir)
+rl_tennis_pz/
+.venv/
+venv/
+
+# outputs pesados
+logs/
+videos/
+models/
+plots/*.npz
+
+# SO/editor
+.DS_Store
+.idea/
+.vscode/
