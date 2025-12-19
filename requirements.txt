@@ -1,0 +1,24 @@
+# Core
+numpy>=1.24,<3
+gymnasium>=0.29,<1.0
+
+# RL + Atari multi-agent
+pettingzoo[atari]>=1.24,<2.0
+supersuit>=3.9,<4.0
+ale-py>=0.8.1,<0.9
+
+# Stable-Baselines3 (PPO/DQN)
+stable-baselines3>=2.3,<3.0
+
+# Deep learning backend
+torch>=2.1,<3.0
+
+# Logging / dashboards
+tensorboard>=2.14,<3.0
+
+# Plots
+matplotlib>=3.7,<4.0
+
+# Video recording
+imageio>=2.31,<3.0
+imageio-ffmpeg>=0.4.9,<0.6
