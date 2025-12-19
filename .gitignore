@@ -9,7 +9,6 @@ build/
 # outputs pesados
 logs/
 videos/
-models/
 plots/*.npz
 
 # SO/editor
